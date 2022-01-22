@@ -5,7 +5,7 @@
       src="./assets/logo.png"
     >
     <HelloWorld msg="Welcome to Your Vue.js App" />
-    <div>@</div>
+    <div>@1</div>
   </div>
 </template>
 
